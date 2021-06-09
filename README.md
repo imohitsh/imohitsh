@@ -2,7 +2,7 @@
 <p align="center"> 
 <img align="center" alt="Coder" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width=60%>
 </p>
-<h3 align="center">A Second year student at Lakshmi Narain College of Technology, Currently pursuing B.tech in Computer Science. I am Technical Content Writer Intern @<a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></h3>
+<h3 align="center">A Second year student at Lakshmi Narain College of Technology Excellence, Currently pursuing B.tech in Computer Science. I am Currently working as Technical Content Writer Intern @<a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imohitsh&label=Profile%20views&color=0e75b6&style=flat" alt="imohitsh" /> </p>
 
