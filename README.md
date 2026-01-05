@@ -2,17 +2,28 @@
 <p align="center"> 
 <img align="center" alt="Coder" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width=60%>
 </p>
-<h3 align="center">A Pre-Final year student at Lakshmi Narain College of Technology Excellence, Currently pursuing B.tech in Computer Science. I am Currently working as Technical Content Writer Intern @<a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a></h3>
+<h3 align="center"> A passionate and solution-driven Azure Integrations Developer, I specialize in designing and deploying scalable, cloud-native workflows using Azure Logic Apps, Service Bus, API Management, and DevOps with 1.5 years of hands-on experience.
+
+In addition to my developer experience, I bring strong communication and technical documentation skills from my time as a Technical Content Writer Intern at Scaler, where I authored 30+ in-depth articles on topics like C++, Java, OOP, DBMS, and SQL, helping thousands of learners understand complex CS concepts.
+
+🔹 What I bring to the table:
+✔️ Strong foundation in cloud integration and automation
+✔️ Production-level experience in Azure’s serverless offerings
+✔️ Proactive issue resolution and workflow optimization
+✔️ Ability to simplify and communicate technical concepts
+✔️ Continuous learner with a passion for scalable architecture
+✔️ Experience with Agile methodologies, working with ticketing tool like JIRA
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imohitsh&label=Profile%20views&color=0e75b6&style=flat" alt="imohitsh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imohitsh" alt="imohitsh" /></a> </p>
 
-- 🔭 I’m currently working with **C++**
+- 🔭 I’m currently working as a **Cloud Integration Developer**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **DevOps**
 
-- 📝 I write articles on <a href="https://auth.geeksforgeeks.org/user/mohitssahay/profile">GeeksForGeeks </a>
+- 📝 Link to some of my articles are <a href="https://www.scaler.com/topics/getter-and-setter-in-java/">Getter and Setter in Java, </a> <a href="https://www.scaler.com/topics/default-constructor-in-cpp/">Default COnstructor, </a> <a href="https://www.scaler.com/topics/spooling-in-operating-system/">Spooling in OS, </a>
 
 - 📫 How to reach me **mohitssahay@gmail.com**
 
