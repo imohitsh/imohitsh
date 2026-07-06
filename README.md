@@ -21,9 +21,9 @@ Azure DevOps · Kubernetes · Docker · Helm · ArgoCD · GitHub Actions · Terr
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imohitsh" alt="imohitsh" /></a> </p>
 
-- 🔭 I’m currently working as a **Cloud Integration Developer**
+- 🔭 I’m currently working as a **Cloud DevOps Engineer**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m constantly learning **DevOps**
 
 - 📝 Link to some of my articles are <a href="https://www.scaler.com/topics/getter-and-setter-in-java/">Getter and Setter in Java, </a> <a href="https://www.scaler.com/topics/default-constructor-in-cpp/">Default COnstructor, </a> <a href="https://www.scaler.com/topics/spooling-in-operating-system/">Spooling in OS, </a>
 
